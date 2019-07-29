@@ -1,0 +1,15 @@
+p {
+    color: seagreen;
+}
+
+a:hover {
+    color: goldenrod;
+}
+
+h1 {
+    font-size: 200px;
+}
+
+.img {
+    display: inline-block;
+}
